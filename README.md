@@ -9,8 +9,14 @@
 - 由詳細介紹頁面中的地址連接 google map 地圖
 - 當沒有符合搜尋項目時 , 隨機推薦 3 家餐廳  
 
-## 專案使用環境
+## 專案開發環境
 - node.js
-- express
 
-**專案安裝使用流程
+## 專案使用方法
+**請於你的電腦中先行下載安裝 Git 後開啟 " 終端機 terminal " 進行下列步驟**  
+
+1.下載此專案至你的電腦  
+ `$ git clone "https://github.com/EastonTsai/restaurants_list.git" `
+2.把執行位置移到你的電腦中的 restaurant_list 的位置
+ `$ cd .../restaurant_list`
+3.
