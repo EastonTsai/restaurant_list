@@ -16,7 +16,26 @@
 **請於你的電腦中先行下載安裝 Git 後開啟 " 終端機 terminal " 進行下列步驟**  
 
 1.下載此專案至你的電腦  
- `$ git clone "https://github.com/EastonTsai/restaurants_list.git" `
-2.把執行位置移到你的電腦中的 restaurant_list 的位置
- `$ cd .../restaurant_list`
-3.
+```
+$ git clone "https://github.com/EastonTsai/restaurants_list.git"
+```
+2.把執行位置移到你的電腦中的 restaurant_list 的位置  
+```
+$ cd .../restaurant_list
+```
+3.安裝 expree  
+```
+$npm -i express@4.16.4
+```
+4.安裝 express-handlebars  
+```
+$ npm -i express-handlebars@3.0.0
+```
+5.安裝 nodemon  
+```
+$ npm -i nodemon
+```
+6.使用 nodemon 執行 app.js
+```
+$ nodemon app.js
+```
