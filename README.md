@@ -27,15 +27,15 @@ $ cd .../restaurant_list
 ```
 3.安裝 expree  
 ```
-$npm -i express@4.16.4
+$npm i express@4.16.4
 ```
 4.安裝 express-handlebars  
 ```
-$ npm -i express-handlebars@3.0.0
+$ npm i express-handlebars@3.0.0
 ```
-5.安裝 nodemon  
+5.安裝 nodemon ( 建議安裝 : nodemon 可以自動重啟 sevear 主程式 )  
 ```
-$ npm -i nodemon
+$ npm i nodemon
 ```
 6.使用 nodemon 執行 app.js
 ```
