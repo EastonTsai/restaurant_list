@@ -99,3 +99,33 @@ header {
   }
   
 }
+/* ----新橧以下----- */
+a{
+  text-decoration: none;
+}
+.card-title{
+  font-size: 24px;
+}
+.restaurant-category{
+  font-size: 18px;
+}
+.card:hover {
+  transform: scale(1.05);
+  transition: .3s;
+  background-color: rgb(245, 232, 116);
+  color: #000;
+}
+.card {
+  transform: scale(1);
+  transition: .3s;
+}
+header .navbar{
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 100;
+}
+header .banner{
+  margin-top: 50px
+}
