@@ -11,6 +11,8 @@
 
 ## 專案開發環境
 - node.js
+- express 框架
+- express-handlebars 模板引擎
 
 ## 專案使用方法
 **請於你的電腦中先行下載安裝 Git 及 node.js 後開啟 " 終端機 terminal " 進行下列步驟**  
